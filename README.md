@@ -1,1 +1,1 @@
-Веб Апи для работы с [Registration-Mail](https://github.com/Jalaveyan#:~:text=Python-,Registration%2DMail,Registration%2DMail,-Public)https://github.com/Jalaveyan#:~:text=Python-,Registration%2DMail,Registration%2DMail,-Public
+Веб Апи для работы - https://github.com/Jalaveyan/Registration-Mail
