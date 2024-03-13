@@ -1,0 +1,19 @@
+@EmailManage_HostAddress = https://localhost:7081
+
+GET {{EmailManage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{EmailManage_HostAddress}}/weatherforecast
+
+###
+
+POST {{EmailManage_HostAddress}}/api/personemail
+Content-Type: application/json
+
+{
+  //EmailPersons
+}
+
+###
